@@ -26,3 +26,5 @@ public class Factorial {
        System.out.println( Printfact(n));
     }
 }
+// TC = O(n)
+
